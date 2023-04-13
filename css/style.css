@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Nanum+Myeongjo&family=Roboto:wght@100;300&display=swap');
+@import "reset.css";
+@import "components/status-bar.css";
+@import "variables.css";
+@import "screens/login.css";
+@import "screens/friends.css";
+@import "screens/find.css";
+@import "screens/more.css";
+@import "components/nav-bar.css";
+@import "components/screen-header.css";
+@import "components/user-components.css";
+@import "components/badge.css";
+@import "components/icon-row.css";
+
+body {
+    font-family: 'Aboreto', cursive;
+    
+}
+
+.status_bar {
+    position: fixed;
+}
+
+.main_screen {
+    padding: 0px 25px;
+}
